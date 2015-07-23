@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a repository for studying data science.
+This is a repository to study data science.
